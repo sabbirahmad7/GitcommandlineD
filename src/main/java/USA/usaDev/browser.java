@@ -7,15 +7,19 @@ public class browser {
 		
 		System.out.print("browser fb");
 		
-<<<<<<< HEAD
-	}
+
+		System.out.println("log in");
+		
+		
+		
+		System.out.println("add to cart");
+		
+		System.out.println("payment");
+		
+		System.out.println("log out");
+		}
+	
 	
 
-=======
-		System.out.println("log in");
-	}
-	
-	
->>>>>>> 89600653269b7d6144a0a577f7e3757893a04222
 
 }
